@@ -27,12 +27,7 @@ $ git clone git@github.com:mushood123/Mental-health-data-science.git
 $ cd mental-health-analysis
 ```
 
-### 2️⃣ Install Dependencies
-```bash
-$ pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Notebook
+### 2️⃣ Run the Notebook
 Use Jupyter Notebook or Google Colab to explore the project.
 ```bash
 $ jupyter notebook

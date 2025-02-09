@@ -41,9 +41,6 @@ $ jupyter notebook
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
 🚀 **Let’s drive awareness through data science!**
 
